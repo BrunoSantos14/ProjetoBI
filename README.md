@@ -39,4 +39,4 @@ Permite que qualquer usuário, mesmo sem familiaridade com Python, acesse a base
 ## Observações
 
 * Requer a versão 15.6 do PostgreSQL para cadastro correto. Versões anteriores não são suportadas e futuras não foram verificadas.
-* O sistema só pode ser executado uma única vez. Ele irá criar o database chamado "projetobi" com as tabelas e relacionamentos necessários.
+* O sistema só pode ser executado uma única vez. Ele irá criar o database chamado *projetobi* com as tabelas e relacionamentos necessários.
